@@ -1,0 +1,5 @@
+EJERCICIO 2
+QUE TIENE DE ESPECIAL LA EXCEPCION DEL TIPO "RuntimeException?
+
+Lo que tiene de especial es que se puede comprobar en el tiempo de uso que se esta haciendo, y es una classe normal del programa JAVA.
+Se puede evitar gestionar o capturar dichas.
